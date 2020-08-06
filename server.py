@@ -1,4 +1,4 @@
-from models import app, User
+from models import app, Artist
 from flask import jsonify
 
 # home route!!
